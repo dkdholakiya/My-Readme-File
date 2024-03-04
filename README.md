@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkdholakiya" alt="dkdholakiya" /></a> </p>
 
-- 🔭 I’m currently working on **Dr Parth Amin Project**
 
 - 🌱 I’m currently learning **Python,Django,Tailwind Css,**
 
